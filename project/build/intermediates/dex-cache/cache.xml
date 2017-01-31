@@ -12,21 +12,30 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/vasu/Desktop/McHacks2017/project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.2"
-        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
-        <dex dex="/Users/vasu/Desktop/McHacks2017/project/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.1.1_7d6a2ebc83604e490d4e2c9752b3892d551cb9a4/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/Users/vasu/Desktop/McHacks2017/project/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.2"
         sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
         <dex dex="/Users/vasu/Desktop/McHacks2017/project/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.1.1_d2a0d986b99de1aa92b17136ca263a35f6986d6d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vasu/Desktop/McHacks2017/project/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ae262c14e05940c8834b3c2e9b5ca29544a7c47b">
+        <dex dex="/Users/vasu/Desktop/McHacks2017/project/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_a7821c190065d9d1bf1341b84fd44a035fe95cf7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vasu/Desktop/McHacks2017/project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Users/vasu/Desktop/McHacks2017/project/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.1.1_7d6a2ebc83604e490d4e2c9752b3892d551cb9a4/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -43,17 +52,8 @@
         jumboMode="true"
         optimize="true"
         revision="23.0.2"
-        sha1="2da0cee468838170ff3b28ce417a0153a287a6e4">
+        sha1="dc8ae6896c975cda12141921289d73b56d589609">
         <dex dex="/Users/vasu/Desktop/McHacks2017/project/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_3a801ba4716dad9020c30df142b68b0284db96fb/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/vasu/Desktop/McHacks2017/project/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.2"
-        sha1="8436c87dcb80fc878ad57f23667a713980768163">
-        <dex dex="/Users/vasu/Desktop/McHacks2017/project/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_a7821c190065d9d1bf1341b84fd44a035fe95cf7/classes.dex" />
     </item>
     <item
         is-multidex="true"
